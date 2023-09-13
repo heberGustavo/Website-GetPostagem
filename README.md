@@ -2,4 +2,4 @@ Pré-visualização do website
 
 URL: https://hebergustavo.github.io/Website-GetPostagem/
 
-![GetPostagem](https://github.com/heberGustavo/Websites/assets/44476616/7a525fb5-8b7f-4df3-aa80-9c12394dd228)
+![image](https://github.com/heberGustavo/Website-GetPostagem/assets/44476616/b05c56e2-a77f-4d65-b60b-9a3e3e3df13a)
